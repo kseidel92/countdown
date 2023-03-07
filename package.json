@@ -1,7 +1,7 @@
 {
   "name": "react-native-countdown-xambra",
   "version": "1.0.0",
-  "description": "countdown-component",
+  "description": "countdown",
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.13",
@@ -19,7 +19,7 @@
   "keywords": [
     "countdown"
   ],
-  "author": "klaus",
+  "author": "Klaus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kseidel92/countdown/issues"
