@@ -1,10 +1,10 @@
 {
-  "name": "react-native-countdown-component",
-  "version": "2.7.1",
+  "name": "react-native-countdown-xambra",
+  "version": "1.0.0",
   "description": "React Native CountDown Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/talalmajali/react-native-countdown-component.git"
+    "url": "https://github.com/kseidel92/countdown.git"
   },
   "keywords": [
     "react-native",
@@ -18,12 +18,12 @@
     "countdown"
   ],
   "author": {
-    "name": "Talal Majali",
-    "email": "t.majali93@gmail.com"
+    "name": "Klaus Seidel",
+    "email": "kseidel.si@gmail.com"
   },
-  "homepage": "https://github.com/talalmajali/react-native-countdown-component",
+  "homepage": "https://github.com/kseidel92/countdown.git",
   "bugs": {
-    "url": "https://github.com/talalmajali/react-native-countdown-component/issues"
+    "url": "https://github.com/kseidel92/countdown.git/issues"
   },
   "dependencies": {
     "lodash": "^4.17.13",
