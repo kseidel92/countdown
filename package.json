@@ -1,33 +1,28 @@
 {
   "name": "react-native-countdown-xambra",
   "version": "1.0.0",
-  "description": "React Native CountDown Component",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kseidel92/countdown.git"
-  },
-  "keywords": [
-    "react-native",
-    "react-component",
-    "react-native-component",
-    "react",
-    "mobile",
-    "ios",
-    "android",
-    "counter",
-    "countdown"
-  ],
-  "author": {
-    "name": "Klaus Seidel",
-    "email": "kseidel.si@gmail.com"
-  },
-  "homepage": "https://github.com/kseidel92/countdown.git",
-  "bugs": {
-    "url": "https://github.com/kseidel92/countdown.git/issues"
-  },
+  "description": "countdown-component",
+  "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.13",
-    "sprintf-js": "^1.1.1",
+    "sprintf-js": "^1.1.2",
     "prop-types": "^15.5.8"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kseidel92/countdown.git"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "klaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kseidel92/countdown/issues"
+  },
+  "homepage": "https://github.com/kseidel92/countdown#readme"
 }
